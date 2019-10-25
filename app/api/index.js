@@ -1,4 +1,4 @@
-import tweets from './tweets'
+import tweets from './tweets/index.js'
 
 export default {
   tweets
