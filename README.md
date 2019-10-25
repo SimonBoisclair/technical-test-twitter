@@ -14,7 +14,7 @@ consumerKey=XXXXX
 consumerSecret=YYYYY
 bearer_token=ZZZZZ
 ```
-### Then you should do 
+### When you first start the project you need to : 
 ```
 $ npm install
 ```
@@ -22,7 +22,8 @@ $ npm install
 ```
 $ npm run create
 ```
-### then 
+
+### To run the project, you need to : 
 ```
 $ npm run server
 ```
