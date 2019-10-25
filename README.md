@@ -1,4 +1,9 @@
-## This is a project to demonstrate my abilities to develop using REACT.JS, REDUX, REDUX-SAGAS and WEBPACK.  
+## This is a project to demonstrate my abilities to develop using 
+
+1) REACT.JS
+2) REDUX
+3) REDUX-SAGAS
+4) WEBPACK.  
 
 ### The description of the task was:
 
