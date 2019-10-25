@@ -1,0 +1,13 @@
+.tweet{
+  padding: 15px 0px; 
+  border-bottom: 1px solid black;
+}
+
+.profile-image-url{
+  display: flex;
+}
+
+.name-and-screen-name{
+  margin-bottom: 2px;
+  display: flex;
+}
