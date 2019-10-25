@@ -1,11 +1,11 @@
-## This is a project to demonstrate my abilities to develop using 
+### This is a project to demonstrate my abilities to develop using :
 
 1) REACT.JS
 2) REDUX
 3) REDUX-SAGAS
 4) WEBPACK.  
 
-### The description of the task was:
+### The description of the task was :
 
 1) Create a simple view that will get all the latest tweets about Donald Trump.
 2) Create a simple view that will get all the latest tweets about Hilary Clinton.
