@@ -1,6 +1,6 @@
-This is a project to demonstrate my abilities to develop using REACT.JS, REDUX, REDUX-SAGAS and WEBPACK.  
+##This is a project to demonstrate my abilities to develop using REACT.JS, REDUX, REDUX-SAGAS and WEBPACK.  
 
-The description of the task was:
+###The description of the task was:
 
 1) Create a simple view that will get all the latest tweets about Donald Trump.
 2) Create a simple view that will get all the latest tweets about Hilary Clinton.
@@ -8,24 +8,25 @@ The description of the task was:
 
 To run the project, you need to have the twitter credentials in a .env file at the root of the project.
 
-The file should contain the following credentials : 
-
+###The file should contain the following credentials : 
+```
 consumerKey=XXXXX
 consumerSecret=YYYYY
 bearer_token=ZZZZZ
-
-Then you should do 
-
+```
+###Then you should do 
+```
 $ npm install
-
-then 
-
+```
+###then 
+```
 $ npm run create
-
-then 
-
+```
+###then 
+```
 $ npm run server
-
-And then 
-
+```
+###And then 
+```
 $ npm run start
+```
